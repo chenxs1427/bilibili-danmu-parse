@@ -14,7 +14,6 @@ class BilibiliDanmu:
             'Origin': 'https://message.bilibili.com',
             'Referer': 'https://message.bilibili.com/pages/nav/index_new_sync',
             'Sec-Fetch-Mode': 'cors',
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36'
             }
 
     def ani_parse(self):
